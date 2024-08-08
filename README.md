@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Blanked18804
+- 👀 I’m interested in Web Develeopment
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on frontend
+- 📫 How to reach me ...
+- ⚡ Fun fact: Any application that can be written in javascript will eventually be written in javascript
